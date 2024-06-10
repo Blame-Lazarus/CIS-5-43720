@@ -1,0 +1,93 @@
+Initial balance: $100.00
+Final balance: $110.00
+Result: Player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $115.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $115.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $105.00
+Result: Player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $95.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $95.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $105.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $115.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $115.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $95.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $100.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: Player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $100.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $100.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $95.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: Player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $105.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $105.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $105.00
+Result: Final balance after quitting the game
+Initial balance: $100.00
+Final balance: $95.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $65.00
+Result: House wins
+Initial balance: $100.00
+Final balance: $95.00
+Result: Player wins
+Initial balance: $100.00
+Final balance: $95.00
+Result: House wins with Blackjack
+Initial balance: $100.00
+Final balance: $90.00
+Result: House wins with Blackjack
+Initial balance: $100.00
+Final balance: $95.00
+Result: House busts, player wins
+Initial balance: $100.00
+Final balance: $95.00
+Result: Final balance after quitting the game
